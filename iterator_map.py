@@ -96,3 +96,6 @@ if __name__ == '__main__':
     b = [4, 5, 6]
 
     print(list(map(my_sum, a, b)))
+
+
+print("test")
